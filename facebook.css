@@ -1,0 +1,32 @@
+.maindiv{
+    display: flex;
+}
+.b1{
+    background-color: blue;
+    width: 100%;
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.b2{
+    width: 100%;
+    font-size: x-large;
+}
+.leftnavbar{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    align-items: center;
+}
+.middlenavbar{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.rightnavbar{
+    justify-content: space-between;
+    display: flex;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
